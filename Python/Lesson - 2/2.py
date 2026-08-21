@@ -1,6 +1,5 @@
 # ============================================================
 # LESSON 2 — VALUES, VARIABLES, EXPRESSIONS & OPERATORS
-# Module 1 — Python: From Absolute Zero to Programming Foundations
 # ============================================================
 
 
