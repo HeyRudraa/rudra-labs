@@ -1,5 +1,5 @@
 # ============================================
-# PYTHON MASTERY — MODULE 1 — LESSON 5
+# PYTHON MASTERY — LESSON 5
 # Functions & Program Decomposition
 # ============================================
 
